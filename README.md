@@ -16,4 +16,4 @@ This blog documents the 5Ws and 1H of my journey of becoming a data scientist:
 
 There are many questions to be answered. 
 
-You are more than welcome to ask me any questions along the way. Most importantly, please give me any suggestions and advice on my journey. I am completely new to this and any guidance is appreciated. 
+You are more than welcome to ask me any questions along the way. Most importantly, please give me any suggestions and advice on my journey. I am completely new to this and any guidance is appreciated. 🌞
