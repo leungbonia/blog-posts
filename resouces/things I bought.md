@@ -4,7 +4,7 @@
 
 1. A new chair🪑
 
-    Since the last of my corporate role, my boyfriend stole my nice chair for his home office and I was left with a broken chair that will raise health and safety concern within 1 minute of sitting down. To be able to spend a whole day in front of a computer to learn about a new subject, I needed a new chair to set me up right for my new adventure.
+    Since the last of my corporate role, my boyfriend stole my nice chair for his home office and I was left with a broken chair that will raise health and safety concern within 1 minute of sitting down. To be able to spend a whole day in front of a computer to learn about a new subject, I needed a new chair to set me up right for my new adventure. Now that the chair is here, my cat has claimed it as hers and it's covered in cat hair. 
 
 
 2. A Notebook📖
