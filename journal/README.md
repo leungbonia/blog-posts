@@ -2,6 +2,7 @@
 
 I am going to document my journey every week to show my progress and any obstacles along the way.
 
+## Phase 1 - Foundations
 - [Week 1](week1.md) Setting up and Python Basic
 - [Week 2](week2.md) Pandas and Data Vvisualisation
 - [Week 3](week3.md) Advanced Pandas, Matplotlib and Seaborn
