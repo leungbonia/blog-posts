@@ -27,3 +27,4 @@ How long did I take to achieve the study goal for the week?
 
 What other things did I do this week?
 - I shared on my Linkedin I completed the Luke Barousse course.
+- This is Phase 1 of my study completed. Next week onwards I will dive into Phase 2 on Data Science Fundamentals including statistics for descriptive statistics, probaility and distribution, hypothese testing and SQL. 
