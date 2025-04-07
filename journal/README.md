@@ -8,3 +8,4 @@ I am going to document my journey every week to show my progress and any obstacl
 - [Week 3](week3.md) Advanced Pandas, Matplotlib and Seaborn
 - [Week 4](week4.md) Advanced Data Visualisation and Project
 - [Week 5](week5.md) Statistics for Data Science
+- [Week 5](week5.md) Advanced Statistics for Data Science 
