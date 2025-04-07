@@ -4,26 +4,26 @@ What was the study goal?
 - Statistics for Data Science
 
 What did I learn?
-- Not much because the I find statistics really boring and I struggle to finish the video.
-- A lot of the content in the video I used was actually taught at my university course from 10 years ago. They are mainly definitions of jargons within statistics. 
+- Basically a recap of statistics I learnt at university
+- How boring I find statistics...
 
 What resources did I use?
-- I used the freecodecamp video on YouTube: https://www.youtube.com/watch?v=xxpc-HPKN28
+- Last week I used the freecodecamp video on YouTube: https://www.youtube.com/watch?v=xxpc-HPKN28
+- However, I find the knowledge shared in the video was too introductory. I did not get to learn about more in-depth statistic knowledge. Therefore, I started watching the DATAtab video: https://www.youtube.com/watch?v=K9teElePNkk
+- The DATAtab video gave a more in-depth look into statistics and the various tests can be done to perform different statistical analyses.
 
 What did I find difficult?
-- Just concentrating on the video because I found it so boring. 
+- Staying awake watching a video that talks about statistics.
 
 How did I overcome the difficulties?
--  I gave myself a break and decided to slow my study plan down and complete the statistics chapter in the next week.
--  I still have time and am on progress with the study plan. 
+-  I sped up the video to try to absorb as much as possible when I am awak.
 
 Anything changed from the study plan?
-- It took me longer than expected to complete the write up of my first project - An Analysis of the Michelin Restaurants. I took the first 2 days of this week to complete the write up.
-- I did not finish the video I was set out to finish. I will continue to finish the video. In addition, I will dedicate more time next week to perform statistical analyses using the knowledge acquired from the video. 
+- I added resources to my learning on statistics. 
 
 How long did I take to achieve the study goal for the week?
-- 1 day and counting.  
+- 1 day.  
 
 What other things did I do this week?
-- Nothing.
-- I am excited to start learning SQL in the week after!
+- I shared the first project on LinkedIn using a carousel.
+- Started exploring different datasets available online that may spark my interests in making some visualisations. 
