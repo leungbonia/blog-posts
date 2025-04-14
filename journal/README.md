@@ -7,5 +7,7 @@ I am going to document my journey every week to show my progress and any obstacl
 - [Week 2](week2.md) Pandas and Data Vvisualisation
 - [Week 3](week3.md) Advanced Pandas, Matplotlib and Seaborn
 - [Week 4](week4.md) Advanced Data Visualisation and Project
+
+## Phase 2 - Basics
 - [Week 5](week5.md) Statistics for Data Science
-- [Week 5](week5.md) Advanced Statistics for Data Science 
+- [Week 6](week6.md) Advanced Statistics for Data Science 
