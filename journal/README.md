@@ -10,4 +10,5 @@ I am going to document my journey every week to show my progress and any obstacl
 
 ## Phase 2 - Data Science Fundamentals
 - [Week 5](week5.md) Statistics for Data Science
-- [Week 6](week6.md) Advanced Statistics for Data Science 
+- [Week 6](week6.md) Advanced Statistics for Data Science
+- [Week 7](week7.md) SQL Basics
