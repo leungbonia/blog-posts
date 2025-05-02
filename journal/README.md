@@ -13,3 +13,4 @@ I am going to document my journey every week to show my progress and any obstacl
 - [Week 6](week6.md) Advanced Statistics for Data Science
 - [Week 7](week7.md) SQL Basics
 - [Week 8](week8.md) Advanced SQL
+- [Week 9](week9.md) Advanced SQL 2
